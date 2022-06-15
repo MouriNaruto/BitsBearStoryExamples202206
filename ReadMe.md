@@ -22,3 +22,7 @@ Windows 应用程序打包项目的设计而无法达到预期目的。
 ## Example 4
 
 基于 Example 1 的以 PackageReference 模式引入 C++/WinRT NuGet 包的项目示例。
+
+## Example 5
+
+基于 Example 4 解决 Windows 应用程序打包项目调试时无法下断点问题的项目示例。
