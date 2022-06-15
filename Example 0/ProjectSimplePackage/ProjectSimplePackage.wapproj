@@ -54,5 +54,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ProjectSimple\ProjectSimple.vcxproj" />
+    <ProjectReference Include="..\ProjectSimpleCore\ProjectSimpleCore.vcxproj" />
   </ItemGroup>
 </Project>
