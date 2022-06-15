@@ -10,3 +10,15 @@ Windows 应用程序打包项目的设计而无法达到预期目的。
 ## Example 1
 
 解决在 Example 0 中遇到的问题后的项目示例。
+
+## Example 2
+
+基于 Example 1 的以标准模式引入 C++/WinRT NuGet 包的项目示例。
+
+## Example 3
+
+一个利用了 PackageReference 模式的引入了 NuGet 包的 .NET 项目示例。
+
+## Example 4
+
+基于 Example 1 的以 PackageReference 模式引入 C++/WinRT NuGet 包的项目示例。
